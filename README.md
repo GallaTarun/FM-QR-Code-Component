@@ -6,5 +6,5 @@
 Live URL: https://gallatarun.github.io/FM-QR-Code-Component/
 
 # Output - 
-![output] (./images/Output.png)
+![output](./images/Output.png)
 
